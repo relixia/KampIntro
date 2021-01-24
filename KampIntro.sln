@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "KampIntro\KampIntro.csproj", "{47EE7A92-CD05-41D9-89FF-191BCD243AEE}"
 EndProject
-Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Donguler", "Donguler\Donguler.vbproj", "{28D77737-F102-4ED9-8A98-1D9E713F22A3}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DongulerAsil", "DongulerAsil\DongulerAsil.csproj", "{955F0C77-1BD7-4BAA-AD37-75D8F0DD70CF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{C0B221ED-59AC-4236-B6FE-A639CD2BB6A0}"
@@ -27,10 +25,6 @@ Global
 		{47EE7A92-CD05-41D9-89FF-191BCD243AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47EE7A92-CD05-41D9-89FF-191BCD243AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47EE7A92-CD05-41D9-89FF-191BCD243AEE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{28D77737-F102-4ED9-8A98-1D9E713F22A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{28D77737-F102-4ED9-8A98-1D9E713F22A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{28D77737-F102-4ED9-8A98-1D9E713F22A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{28D77737-F102-4ED9-8A98-1D9E713F22A3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{955F0C77-1BD7-4BAA-AD37-75D8F0DD70CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{955F0C77-1BD7-4BAA-AD37-75D8F0DD70CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{955F0C77-1BD7-4BAA-AD37-75D8F0DD70CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
